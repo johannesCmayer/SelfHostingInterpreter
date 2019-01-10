@@ -1,2 +1,2 @@
 # SelfHostingInterpreter
-A very simple self hosting interpreter.
+A very simple "self hosting" interpreter.
